@@ -100,7 +100,7 @@ namespace Calculator
 
             float resultado = v1 / v2;
 
-            Console.WriteLine("O resultado da divisão é " + resultado);
+            Console.WriteLine($"O resultado da divisão é: {resultado}");
 
             Console.ReadKey();
             Menu();
