@@ -46,7 +46,7 @@ namespace Calculator
             Console.Clear();
             Console.WriteLine("Digite o primeiro valor: ");
 
-            // ConsoleReadLine só retorna strings foi feito conversao para Float.Parse para voltar um numero flutuante.
+            // ConsoleReadLine só retorna strings foi feito conversao para Float.Parse para voltar um numero real.
             float v1 = float.Parse(Console.ReadLine());
 
             Console.WriteLine("Digite o segundo numero: ");
