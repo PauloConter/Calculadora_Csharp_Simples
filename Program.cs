@@ -24,7 +24,7 @@ namespace Calculator
 
             Console.WriteLine("-------------------");
 
-            Console.WriteLine("Selecione uma das opções á cima: ");
+            Console.WriteLine("Selecione uma das opções acima: ");
             short resposta = short.Parse(Console.ReadLine());
 
             switch (resposta)
