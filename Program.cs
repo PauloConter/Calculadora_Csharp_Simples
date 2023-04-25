@@ -6,10 +6,9 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
+           
             Menu();
-
-
-
+            
         }
         static void Menu()
         {
@@ -36,7 +35,6 @@ namespace Calculator
                 case 5: System.Environment.Exit(0); break;
                 default: Menu(); break;
             }
-
 
 
         }
@@ -104,10 +102,6 @@ namespace Calculator
 
             Console.ReadKey();
             Menu();
-
-
-
-
 
 
         }
