@@ -81,7 +81,6 @@ namespace Calculator
 
             Console.ReadKey();
             Menu();
-
         }
 
         static void Divisao()
