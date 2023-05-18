@@ -125,7 +125,6 @@ namespace Calculator
             Menu();
 
 
-
         }
 
 
